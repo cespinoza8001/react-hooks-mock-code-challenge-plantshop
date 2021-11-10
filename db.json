@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "name",
+      "image": "img",
+      "price": "20",
+      "id": 8
+    },
+    {
+      "name": "name",
+      "image": "img",
+      "price": "20",
+      "id": 9
+    },
+    {
+      "name": "name",
+      "image": "img",
+      "price": "20",
+      "id": 10
+    },
+    {
+      "name": "plant",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/various-beautiful-green-plants-in-pots-on-white-royalty-free-image-931824676-1565950537.jpg?crop=0.825xw:0.620xh;0.0785xw,0.132xh&resize=1200:*",
+      "price": "15",
+      "id": 11
     }
   ]
 }
